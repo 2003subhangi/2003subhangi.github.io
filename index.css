@@ -1,0 +1,50 @@
+h1
+{
+ text-align: center;
+ position:relative;
+
+ 
+}
+.row{
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+input
+{
+    justify-content: center;
+    position: relative;
+    
+    top: 80px;
+    height: 70px;
+    width: 250px;
+    margin-left: 25px ;
+    margin-right: 5px;
+    border-radius: 50px ;
+
+}
+button{
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    border-radius:80%;
+    background-color: green;
+    box-shadow: 5px 5px 10px 0px rgba(4, 84, 8, 0.634)
+    
+    
+
+}
+.container{
+
+    border: 2px solid black;
+    height: 500px;
+    width: 300px;
+    position: relative;
+    left:630px;
+    top:100px;
+    background-color:  black;
+    border-radius: 50px;
+
+}
+
